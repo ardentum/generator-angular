@@ -12,11 +12,11 @@
   ],
   "homepage": "https://github.com/yeoman/generator-angular",
   "bugs": "https://github.com/yeoman/generator-angular/issues",
-  "author": "Chrome Developer Relations",
+  "author": "Chrome Developer Relations (+Ardentum)",
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/yeoman/generator-angular.git"
+    "url": "git://github.com/ardentum/generator-angular.git"
   },
   "scripts": {
     "test": "mocha"
