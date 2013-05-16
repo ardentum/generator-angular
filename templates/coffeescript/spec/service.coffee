@@ -1,7 +1,4 @@
-'use strict'
-
 describe 'Service: <%= _.camelize(name) %>', () ->
-
   # load the service's module
   beforeEach module '<%= _.camelize(appname) %>App'
 
